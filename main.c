@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-int main() {
-    // Seu código aqui
-    printf("Ola mundo!");
+int main()
+{
+    printf("Hello World");
+
     return 0;
 }
